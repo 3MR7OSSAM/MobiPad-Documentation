@@ -27,8 +27,9 @@
   - Button Debounce Time (default: `10ms`)
 - 💾 **Config Management**: Save/load custom performance profiles
 - 🌐 **WebSocket Server**: Runs over LAN using your local IP address
-
+<p align="center">
 <img src="https://github.com/user-attachments/assets/b99a9b67-e4fe-4d21-bc3b-ae1fd992d354" alt="Windows App UI" width="400">
+</p>
 
 ### 📱 Client Application (Mobile)
 - 🎮 **Virtual Gamepad**: Includes a full-featured control layout:
