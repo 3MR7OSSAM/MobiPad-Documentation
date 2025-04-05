@@ -1,5 +1,5 @@
 
-# 🎮 MobiPad Gaming Server
+# 🎮 MobiPad Gaming App
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android%20%7C%20iOS-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
